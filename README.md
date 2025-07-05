@@ -47,7 +47,6 @@ This project is a **machine learning model** that classifies news articles as **
 
 The dataset contains columns like:
 
-* `author`
 * `title`
 * `text`
 * `label` → 0 for **Fake**, 1 for **Real**
